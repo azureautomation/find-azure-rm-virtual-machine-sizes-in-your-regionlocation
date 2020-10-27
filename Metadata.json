@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 3195,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-azure-rm-virtual-machine-sizes-in-your-regionlocation/master/Find-AzureRMVMSize.ps1",
+    "DownloadCount": 745,
+    "Id": "Find-Azure-RM-Virtual-8ee175d5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 331,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-1-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This function offers an easy way to view VM Sizes.This is helpful to filter based on the number of Cores that you are looking for.Keep in mind that certain VM types are specified here based on the type of workload you have: https://docs.microsoft.com/en-us/azure/virtual-machines/",
+    "Title": "Find Azure RM Virtual Machine Sizes in your region/location",
+    "UpdatedDate": "2018-1-20T00:00:00",
+    "Url": "https://github.com/azureautomation/find-azure-rm-virtual-machine-sizes-in-your-regionlocation",
+    "UserTags": "Azure Virtual Machine Sizes"
+}
